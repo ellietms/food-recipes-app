@@ -20,7 +20,7 @@
     font-weight: 400;
     line-height: 1.6;
     color: #655A56;
-    background-image: linear-gradient(to right bottom, #DA291CFF, #56A8CBFF,#53A567FF);
+    background-image: linear-gradient(to right bottom, rgb(230, 238, 192),rgb(144, 225, 187));
     background-size: cover;
     background-repeat: no-repeat;
     min-height: calc(100vh - 2 * 4vw); }
